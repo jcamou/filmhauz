@@ -1,0 +1,25 @@
+{
+  "name": "filmhauz-src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcamou/filmhauz.git"
+  },
+  "keywords": [
+    "film"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcamou/filmhauz/issues"
+  },
+  "homepage": "https://github.com/jcamou/filmhauz#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
