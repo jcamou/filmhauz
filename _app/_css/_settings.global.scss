@@ -1,0 +1,39 @@
+///*------------------------------------*\
+//    #GLOBAL
+//\*------------------------------------*/
+
+$border-radius:        3px;
+$top-bar-height:       50px;
+
+$max-width:            1300px;
+$max-width--content:   700px;
+
+// type
+$font-family:          Georgia, serif;
+$font-family--ui:      Lucida Grande, sans-serif; 
+$font-weight--regular: 300;
+$font-weight--bold:    700;
+
+// Spacing
+$spacing-unit:        0.9375rem;
+$spacing-unit--large: ($spacing-unit*2);
+$spacing-unit--small: ($spacing-unit/2);
+
+// Borders
+$border--default: 2px solid $color-gray-base;
+$border--active:  2px solid $color-blue-base;
+$border--light:   2px solid $color-gray-med;
+$border--thin:    1px solid $color-gray-med;
+
+// Animation
+$transition-animation: all .29s ease-in-out 0s;
+$transition-animation--color: color .15s ease-in-out 0s;
+$transition-animation--background-color: background-color .29s ease-in-out 0s;
+
+$transition-animation--background-img: background-image .15s ease-in-out 0s;
+
+///*------------------------------------*\
+//    #MEDIA QUERIES
+//\*------------------------------------*/
+
+// $media-query--retina: (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi);

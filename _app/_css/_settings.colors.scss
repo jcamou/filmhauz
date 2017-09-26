@@ -1,0 +1,35 @@
+///*------------------------------------*\
+//    #COLORS
+//\*------------------------------------*/
+
+// Black
+$color-black-base: #464646;
+
+// Gray
+$color-gray-light:        #f5f5f6;
+$color-gray-med:          #e1e2e1;
+$color-gray-input-stroke: #cccccc;
+$color-gray-base:         #9a9a9a;
+
+
+// Blue
+$color-blue-med:  #63a4ff; 
+$color-blue-base: #1976d2;
+$color-blue-dark: #004ba0; 
+
+$color-blue-top-bar: #0E57B0;
+
+// Purple
+$color-purple-med:   #b085f5;
+$color-purple-base:  #7e57c2;
+$color-purple-dark:  #4d2c91;
+
+// Green
+$color-green-base: #4caf50;
+
+// Yellow
+$color-yellow-base: #fbb723;
+
+// Red
+$color-red-base: #ee6055;
+$color-red-light: lighten($color-red-base, 20%);

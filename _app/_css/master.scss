@@ -1,0 +1,86 @@
+/*
+# CSS Styles Contents
+
+@todo Missing the Mixins scss file.
+## TOOLS
+- Mixins...............Useful mixins.
+
+## SETTINGS
+- Global...............Globally-available variables and config.
+- Colors...............Manage our color palette in isolation.
+
+## VENDOR
+- Normalize.css........A level playing field.
+
+## BASE
+- Headings.............H1–H6 styles.
+- Page.................Page-level styles (HTML element).
+- Links................Base link styles.
+- Type.................Base type styles.
+- Lists................Base list styles.
+
+## OBJECTS
+- Grid.................Grid system for columsns and rows.
+- Buttons..............Button styles.
+- Avatar...............Styles for avatar pictures around the CNC.
+- Basic-list...........Styles for different type of lists (i.e., no-dots).
+- Breadcrumbs..........Breadcrumb styles.
+- Branding.............Classes to help place logo on pages.
+- Chosen-dropdown......Overrides classes for dropdowns.
+- Radio-buttons........Accessible radio button styles.
+- Checkboxes...........Accessible checkbox styles.
+
+## COMPONENTS
+- Top-bar..............Top bar that you see on all the pages.
+- Footer...............Main footer styles.
+- Main-content.........Where the meat is at.
+- Panels...............Panels with different styles of borders. Used to highlight items.
+- Event-tile...........Tiles for events around the CNC.
+- Tables...............Styles for all tables.
+- Forms................All form elements.
+- Menu-bar.............Tertiary navigations.
+- Wizard-sections......Styles for sub section steps and main wizard steps.
+- Wizard-progress......Styles for wizard progression.
+- Bordered-list........Styles for list with borders for menus.
+
+## Helpers
+- Clearfix.............To do clearfix stuff.
+- Spacing..............Space things apart.
+- Positioning..........Position things how you want.
+- Text.................Text helpers.
+
+*/
+
+
+// SETTINGS
+@import "settings.colors";
+@import "settings.global";
+
+
+
+
+// VENDOR
+
+
+
+
+
+// BASE
+@import "base.headings";
+
+
+
+
+// OBJECTS
+
+
+
+
+
+// COMPONENTS
+
+
+
+
+
+// HELPERS
