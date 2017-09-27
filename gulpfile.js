@@ -50,6 +50,9 @@ gulp.task('serve', () => {
     server: {
       baseDir: siteRoot
     }
+
+    // proxy: "192.168.1.109"
+
   });
 
   gulp.watch(cssFiles, ['css']);
